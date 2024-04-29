@@ -5,9 +5,10 @@ import re
 
 
 SPARK_TO_DEEQU_COORD_MAPPING = {
+    "3.4": "com.amazon.deequ:deequ:2.0.7-spark-3.4",
     "3.3": "com.amazon.deequ:deequ:2.0.7-spark-3.3",
     "3.2": "com.amazon.deequ:deequ:2.0.7-spark-3.2",
-    "3.1": "com.amazon.deequ:deequ:2.0.7-spark-3.1"
+    "3.1": "com.amazon.deequ:deequ:2.0.7-spark-3.1",
 }
 
 
